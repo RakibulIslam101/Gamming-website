@@ -182,6 +182,7 @@ main {
 .card-content img {
     border-radius: 16px;
     margin-bottom: 24px;
+    cursor: pointer;
 }
 
 .card-content p {
