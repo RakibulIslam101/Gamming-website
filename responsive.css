@@ -88,7 +88,6 @@
         display: grid;
         grid-template-columns: repeat(3, 1fr);
         gap:20px;
-        align-items: center;
     }
     .list-items{
         display: grid;
@@ -195,6 +194,7 @@
         display: grid;
         grid-template-columns: repeat(3, 1fr);
         gap:20px;
+
     }
     .list-items{
         display: grid;
